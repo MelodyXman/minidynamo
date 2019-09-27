@@ -1,0 +1,12 @@
+Project:		
+	
+Implements Consistent hashing with virtual_nodes of its corresponding db_node 	
+	
+Implements Gossip protocol in Peer to Peer cluster environtment, with pull and push type during the information transission process. Coordinator node and Check the heartbeat of the nodes	
+	
+Implements the verctor clock for time consistency in the distributed system	 	
+Wanted to implement MerkleTree 80% done
+
+
+
+
